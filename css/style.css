@@ -1,0 +1,40 @@
+nav{
+  background-color: #e83e8c;
+}
+
+h1{
+  color: #212529;
+}
+
+body{
+  padding-top: 120px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body h1,h2,h3{
+  font-weight: 700;
+}
+
+body p,a{
+  font-weight: 400;
+}
+
+footer{
+  background-color: #e83e8c;
+}
+
+.pagos{
+    background-color: #17a2b8;
+}
+
+.texto-pagos{
+  display: inline-block;
+}
+
+.tarjetas{
+  display: inline-block;
+}
+
+.pagos1{
+  width: 60%;
+}
